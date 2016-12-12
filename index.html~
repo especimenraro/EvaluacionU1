@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Hoja de Vida digital</title>
+<meta name="generator" content="Bluefish 2.2.7" >
+<meta name="author" content="ricardo" >
+<meta name="date" content="2016-12-12T01:38:55-0300" >
+<meta name="viewport" content="width=device-width,usr-scalable=no">
+<meta name="keywords" content="ricardo navia, hoja de vida, programador, web,desarrollo">
+<meta name="description" content="Hoja de vida digital, evaluación unidad 1, curso Next university">
+<meta name="ROBOTS" content="NOINDEX, NOFOLLOW">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<meta http-equiv="content-type" content="application/xhtml+xml; charset=UTF-8">
+<meta http-equiv="content-style-type" content="text/css">
+<meta http-equiv="expires" content="0">
+</head>
+<body>
+<header></header>
+<section>
+<svg width="206" height="88" viewbox="0 0 206 88">
+<image xlink:href="svg/especimen.svg" width="206" height="88"></image>
+</svg>
+<h1>HOJA DE VIDA</h1>
+<h2>Ricardo Navia, Fotógrafo</h2>
+<ul>
+<li>Inicio</li>
+<li>Educación</li>
+<li>Experiencia</li>
+</ul>
+<h2>Información Personal</h2>
+<img src="Imagenes/mifoto.jpg" alt="Fotografía Ricardo Navia" width="300"></img>
+<h3><strong>Nombre: </strong><em>Ricardo Navia</em></h3>
+<h3><strong>Fecha de Nacimiento: </strong><em>29 de Junio de 1972, Santiago de Chile</em></h3>
+<p>Ricardo Navia mira desde la fotografía documental, entendiendo a esta última
+como la mirada vivenciada y empática del fotógrafo sobre el ser humano y su entorno, su
+desarrollo y convivencia. Su conservación. La intervención provocada y la protección de su
+territorio.
+Navia considera importante poner en registro la actividad humana, aquella que crea espacios
+comunes, identitarios. Aquellas que promueven el colectivo, aquellas que crean patrimonio.
+Es así como el trabajo del fotógrafo recorre situaciones y narrativas locales, y de personajes
+cercanos del territorio que ahora habita. </p>
+</section>
+<footer>
+<p><strong><em> Contacto: especimenraro.cl@gmail.com  - </em></strong><a href="http://www.especimenraro.cl" target="_blank">www.especimenraro.cl</a></p>
+</footer>
+</body>
+</html>
