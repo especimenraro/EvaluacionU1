@@ -4,7 +4,7 @@
 <title>Hoja de Vida Digital - Educación</title>
 <meta name="generator" content="Bluefish 2.2.7" >
 <meta name="author" content="ricardo" >
-<meta name="date" content="2016-12-13T13:22:44-0300" >
+<meta name="date" content="2016-12-13T13:25:12-0300" >
 <meta name="viewport" content="width=device-width, usr-scalable=no">
 <meta name="keywords" content="ricardo navia, hoja de vida, programador, web,desarrollo">
 <meta name="description" content="Hoja de Vida Digital - Educación Ricardo Navia">
@@ -78,7 +78,7 @@
 <input type="radio" id="Opcion" name="OpcionSi">Si
 <input type="radio" id="Opcion" name="OpcionNo">No
 </p>
-<button name="Enviar" type="submit">Enviar</button>
+<button name="Enviar"id="BotonEnviar" type="submit">Enviar</button>
 </section>
 <footer>
 <p><strong><em> Contacto: especimenraro.cl@gmail.com  - </em></strong><a href="http://www.especimenraro.cl" target="_blank">www.especimenraro.cl</a></p>
