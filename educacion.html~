@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Hoja de Vida Digital - Educación</title>
+<meta name="generator" content="Bluefish 2.2.7" >
+<meta name="author" content="ricardo" >
+<meta name="date" content="2016-12-13T13:22:44-0300" >
+<meta name="viewport" content="width=device-width, usr-scalable=no">
+<meta name="keywords" content="ricardo navia, hoja de vida, programador, web,desarrollo">
+<meta name="description" content="Hoja de Vida Digital - Educación Ricardo Navia">
+<meta name="ROBOTS" content="NOINDEX, NOFOLLOW">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<meta http-equiv="content-type" content="application/xhtml+xml; charset=UTF-8">
+<meta http-equiv="content-style-type" content="text/css">
+<meta http-equiv="expires" content="0">
+</head>
+<body>
+<section>
+<svg width="206" height="88" viewbox="0 0 206 88">
+<image xlink:href="svg/especimen.svg" width="206" height="88"></image>
+</svg>
+<h1>HOJA DE VIDA - Formación</h1>
+<h2>Ricardo Navia, Fotógrafo</h2>
+<ul>
+<li><a href="index.html"> Inicio</a></li>
+<li><a href="educacion.html"> Educación</a></li>
+<li><a href="experiencia.html"> Experiencia</a></li>
+</ul>
+<h2>Formación</h2>
+<! ----- Tabla de antecedentes formativos en fotografía>
+<table  border="1" cellpadding="5" cellspacing="1">
+<thead>
+<tr>
+	<th>Año</th>
+	<th>Institución</th>
+	<th>Lugar</th>
+	<th>Formación</th>
+	<th>Finalizada</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+	<td>2013</td>
+	<td>FotocineClub Chile</td>
+	<td>Santiago de Chile</td>
+	<td>Curso Integral de Fotografía</td>
+	<td>si</td>
+</tr>
+<tr>
+	<td>2015</td>
+	<td>FotocineClub Chile</td>
+	<td>Santiago de Chile</td>
+	<td>Fotografía Documental</td>
+	<td>si</td>
+</tr>
+</tbody>
+</table>
+<! ------------------ Formulario para Agregar Información de Cursos, talleres, etc.
+<form name="FormularioAgregaFormacion" autocomplete="on">
+<legend><h3> Agregar Formación</h3></legend>
+<p><label> Año:</label>
+ <select>
+<option>2016</option>
+<option>2015</option>
+<option>2014</option>
+<option>2013</option>
+<option>2012</option>
+<option>2011</option>
+</select>
+</p>
+<p><label for="Institucion">Institución:</label><input type="text"  id="Institucion" name="Institucion" placeholder="Ej. Universidad de La Frontera" autofocus="on" required>
+</p>
+<p><label for="Lugar">Lugar:</label><input type="text" id="Lugar" name="Lugar" placeholder="Ej. Temuco, Chile" autofocus="on" required>
+</p>
+<p><label for="Formacion">Formación:</label><input type="text"id="Formacion"  name="Formacion" placeholder="Ej. Curso de Video" autofocus="on" required>
+</p>
+<p><label for="Opcion">Finalizada:</label>
+<input type="radio" id="Opcion" name="OpcionSi">Si
+<input type="radio" id="Opcion" name="OpcionNo">No
+</p>
+<button name="Enviar" type="submit">Enviar</button>
+</section>
+<footer>
+<p><strong><em> Contacto: especimenraro.cl@gmail.com  - </em></strong><a href="http://www.especimenraro.cl" target="_blank">www.especimenraro.cl</a></p>
+</footer>
+</body>
+</html>
