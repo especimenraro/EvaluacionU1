@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Hoja de Vida Digital - Educación</title>
+<title>Portafolio Digital</title>
 <meta name="generator" content="Bluefish 2.2.7" >
 <meta name="author" content="ricardo" >
-<meta name="date" content="2016-12-13T13:25:12-0300" >
-<meta name="viewport" content="width=device-width, usr-scalable=no">
-<meta name="keywords" content="ricardo navia, hoja de vida, programador, web,desarrollo">
-<meta name="description" content="Hoja de Vida Digital - Educación Ricardo Navia">
+<meta name="date" content="2016-12-18T20:00:01-0300" >
+<meta name="viewport" content="width=device-width,usr-scalable=no">
+<meta name="keywords" content="ricardo navia, portafoilo, portfolio, fotografo, fotografo documental, fotografia, fotografia documental, especimenraro, www.especimenraro.cl, programador, web,desarrollo">
+<meta name="description" content="Hoja de vida digital, evaluación unidad 1, curso Next university">
 <meta name="ROBOTS" content="NOINDEX, NOFOLLOW">
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
 <meta http-equiv="content-type" content="application/xhtml+xml; charset=UTF-8">
@@ -15,16 +15,17 @@
 <meta http-equiv="expires" content="0">
 </head>
 <body>
+<header></header>
 <section>
-<svg width="206" height="88" viewbox="0 0 206 88">
-<image xlink:href="svg/especimen.svg" width="206" height="88"></image>
+<svg width="412" height="176" viewbox="0 0 412 176">
+<image xlink:href="svg/especimen.svg" width="412" height="176"></image>
 </svg>
-<h1>HOJA DE VIDA - Formación</h1>
-<h2>Ricardo Navia, Fotógrafo</h2>
+<h1>PORTAFOLIO - Formación</h1>
+<h2>Ricardo Navia, Fotógrafo Documental</h2>
 <ul>
 <li><a href="index.html"> Inicio</a></li>
-<li><a href="educacion.html"> Educación</a></li>
-<li><a href="experiencia.html"> Experiencia</a></li>
+<li><a href="educacion.html"> Formacion</a></li>
+<li><a href="trabajos.html"> Trabajos</a></li>
 </ul>
 <h2>Formación</h2>
 <! ----- Tabla de antecedentes formativos en fotografía>
@@ -58,7 +59,10 @@
 <! ------------------ Formulario para Agregar Información de Cursos, talleres, etc.
 <form name="FormularioAgregaFormacion" autocomplete="on">
 <legend><h3> Agregar Formación</h3></legend>
-<p><label> Año:</label>
+<table>
+<tr>
+<td><p><label> Año:</label></p></td>
+<td>
  <select>
 <option>2016</option>
 <option>2015</option>
@@ -67,17 +71,29 @@
 <option>2012</option>
 <option>2011</option>
 </select>
-</p>
-<p><label for="Institucion">Institución:</label><input type="text"  id="Institucion" name="Institucion" placeholder="Ej. Universidad de La Frontera" autofocus="on" required>
-</p>
-<p><label for="Lugar">Lugar:</label><input type="text" id="Lugar" name="Lugar" placeholder="Ej. Temuco, Chile" autofocus="on" required>
-</p>
-<p><label for="Formacion">Formación:</label><input type="text"id="Formacion"  name="Formacion" placeholder="Ej. Curso de Video" autofocus="on" required>
-</p>
-<p><label for="Opcion">Finalizada:</label>
+</td>
+</tr>
+<tr>
+<td><p><label for="Institucion">Institución:</label></p></td>
+<td><input type="text"  id="Institucion" name="Institucion" placeholder="Ej. Universidad de La Frontera" autofocus="on" required></td>
+</tr>
+<tr>
+<td><p><label for="Lugar">Lugar:</label></p></td>
+<td><input type="text" id="Lugar" name="Lugar" placeholder="Ej. Temuco, Chile" autofocus="on" required>
+</td>
+</tr>
+<tr>
+<td><p><label for="Formacion">Formación:</label></p></td>
+<td><textarea id="Formacion"  name="Formacion" placeholder="Ej. Curso de Video" autofocus="on" required usr-scalable="no"></textarea></td>
+</tr>
+<tr>
+<td><p><label for="Opcion">Finalizada:</label></p>
+<td>
 <input type="radio" id="Opcion" name="OpcionSi">Si
 <input type="radio" id="Opcion" name="OpcionNo">No
-</p>
+</td>
+</tr>
+</table>
 <button name="Enviar"id="BotonEnviar" type="submit">Enviar</button>
 </section>
 <footer>
