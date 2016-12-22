@@ -4,7 +4,7 @@
 <title>Portafolio Digital</title>
 <meta name="generator" content="Bluefish 2.2.7" >
 <meta name="author" content="ricardo" >
-<meta name="date" content="2016-12-18T20:34:38-0300" >
+<meta name="date" content="2016-12-18T20:35:26-0300" >
 <meta name="viewport" content="width=device-width,usr-scalable=no">
 <meta name="keywords" content="ricardo navia, portafoilo, portfolio, fotografo, fotografo documental, fotografia, fotografia documental, especimenraro, www.especimenraro.cl, programador, web,desarrollo">
 <meta name="description" content="Hoja de vida digital, evaluación unidad 1, curso Next university">
@@ -38,7 +38,7 @@ Tu Navevagor no puede mostrar el video
 </video>
 <h3>Comentario Trabajo Actual</h3>
 <h4><em>De lo que Vemos a lo que Sentimos</em></h4>
-<audio src="audio/ProyectoActual.mp3" controls id="audio1" preload="auto"></audio><span><a href="http://www.especimenraro.cl/blog" target="_blank">   Ir  </a></span>
+<audio src="audio/ProyectoActual.mp3" controls id="audio1" preload="auto">TU NAVEGADOR NO PUEDE REPRODUCIR EL AUDIO</audio><span><a href="http://www.especimenraro.cl/blog" target="_blank">   Ir  </a></span>
 </section>
 <footer>
 <p><strong><em> Contacto: especimenraro.cl@gmail.com  - </em></strong><a href="http://www.especimenraro.cl" target="_blank">www.especimenraro.cl</a></p>
